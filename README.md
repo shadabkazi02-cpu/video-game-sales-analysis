@@ -36,15 +36,30 @@ A comprehensive Exploratory Data Analysis (EDA) of video game sales data spannin
 
 ### 5. Regional Preferences
 
-### Market Share by Region
-- **North America**: 49% of global sales
-- **Europe**: 27% of global sales  
-- **Japan**: 14% of global sales
-- **Other Regions**: 10% of global sales
+### Key Regional Insights
 
-### Genre Popularity by Region
-| Region | Top Genres |
-|--------|------------|
-| North America | Shooter, Action, Sports |
-| Europe | Action, Sports, Racing |
-| Japan | Role-Playing, Action, Platform |
+**🇺🇸 North America (49% Market Share)**
+- Largest gaming market globally
+- Shooter and Action genres dominate
+- Strong preference for Western-developed titles
+- Holiday season (Nov-Dec) drives 40% of annual sales
+
+**🇪🇺 Europe (27% Market Share)**
+- Second largest market
+- Action and Sports genres lead
+- Strong racing game culture (Formula 1, Rally)
+- FIFA franchise performs 2x better here than in NA
+
+**🇯🇵 Japan (14% Market Share)**
+- Unique market preferences
+- Role-Playing Games (RPGs) are king
+- Strong mobile and handheld gaming culture
+- Nintendo dominates local market share
+- Different sales patterns - steady year-round, no holiday spike
+
+**🌍 Other Regions (10% Market Share)**
+- Growing markets: South America, Asia-Pacific
+- Mobile gaming leading growth
+- Price sensitivity higher than established markets
+
+## 💡 Business Insights

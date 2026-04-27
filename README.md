@@ -63,3 +63,44 @@ A comprehensive Exploratory Data Analysis (EDA) of video game sales data spannin
 - Price sensitivity higher than established markets
 
 ## 💡 Business Insights
+
+### Key Takeaways from Analysis
+
+| Focus Area | Insight | Action Item |
+|------------|---------|-------------|
+| **North America** | 49% of global sales | Allocate 50% of budget here |
+| **Top Genres** | Action + Sports = Highest ROI | Invest in these categories |
+| **Peak Timing** | 2007-2010 golden era | Study successful titles from this period |
+| **Japan Market** | RPG + Nintendo dominate | Partner with local studios |
+| **Platform** | PS2, Wii, Xbox 360 top performers | Consider remasters for these platforms |
+
+### Strategic Recommendations
+
+1. **Market Entry**: Launch in NA first, then EU, then JP
+2. **Genre Focus**: Action games offer best risk-to-reward ratio
+3. **Timing**: Q4 releases in NA, Q2 releases in EU
+4. **Localization**: Full translation for JP, partial for EU
+5. **Pricing**: Tiered pricing ($70 NA, $60 EU, $50 JP)
+
+## 🛠️ Technologies Used
+
+### Core Libraries
+| Library | Version | Purpose |
+|---------|---------|---------|
+| **Python** | 3.8+ | Core programming language |
+| **Pandas** | 1.3+ | Data manipulation & analysis |
+| **NumPy** | 1.21+ | Numerical operations |
+| **Matplotlib** | 3.4+ | Data visualization |
+| **Seaborn** | 0.11+ | Statistical visualizations |
+
+### Development Environment
+
+- **Jupyter Notebook** - Interactive development
+- **Kaggle** - Dataset source & initial development
+
+### Key Python Packages Used
+```python
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns

@@ -34,7 +34,7 @@ A comprehensive Exploratory Data Analysis (EDA) of video game sales data spannin
 - Market saturation observed post-2010
 - Shift toward digital/mobile platforms not captured in this dataset
 
-## 5. Regional Preferences
+### 5. Regional Preferences
 
 ### Market Share by Region
 - **North America**: 49% of global sales
